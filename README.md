@@ -6,3 +6,4 @@
 * [精品mac应用分享](https://xclient.info/)
 * [macAppDownload.com](https://www.macappdownload.com/cleanmymac-x/)
 * [Russia appsTorrent.ru](https://www.appstorrent.ru/programs/)
+* [idea & JDK](https://pan.kikera.top/Software/Mac/)
