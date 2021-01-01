@@ -8,3 +8,4 @@
 * [Russia appsTorrent.ru](https://www.appstorrent.ru/programs/)
 * [IDEA & JDK](https://pan.kikera.top/Software/Mac/)
 * [macwk](https://macwk.com/)
+* [crxdl](https://crxdl.com/)
